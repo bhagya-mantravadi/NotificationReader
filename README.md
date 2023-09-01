@@ -2,7 +2,7 @@
 
 ## Overview
 
-NotificationReader app is an Android application. This app allows users to read and store notifications received on their Android devices. When a user receives a notification, this app reads the package name and title of the notification, stores it in the local database and displays it in the app's user interface. Users can click on any notification to view its details and perform actions such as reading or deleting the notification.
+NotificationReader app is an application that allows users to read and store notifications received on their Android devices. This application reads the package name and notification title when a user receives a notification, stores it in the local database, and displays it in the user interface. Users can click on any notification to view its details and perform actions such as reading or deleting it.
 
 ## Features
 - Notification Reading: The app reads incoming notifications, including the package name and title.
