@@ -1,7 +1,4 @@
 # NotificationReader
-
-## Overview
-
 NotificationReader app is an Android application whose primary functionalities are to read out the incoming notifications, store them securely in the local database, and provide a user interface for managing these notifications.
 
 ## Features
